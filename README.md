@@ -1,4 +1,4 @@
-# Photo Edito
+# Photo Editor
 
 A web-based photo editing app with client-side filters/adjustments and server-side processing via Sharp.
 
